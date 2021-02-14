@@ -7,5 +7,5 @@ Goal: Survive as long as possible and earn as much points by defeating enemies.
 
 ### SpaceDefender Gameplay Walk-though
 
-<img src="https://i.imgur.com/toUbplN.mp4" width=200><br>
+<img src="https://i.imgur.com/Upc8lPq.gif" width=200><br>
 
