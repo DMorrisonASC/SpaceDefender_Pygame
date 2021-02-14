@@ -9,3 +9,5 @@ Goal: Survive as long as possible and earn as much points by defeating enemies.
 
 <img src="https://i.imgur.com/Upc8lPq.gif" width=200><br>
 
+### Extract Zip to Use it!!!
+
