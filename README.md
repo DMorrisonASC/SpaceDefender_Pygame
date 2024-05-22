@@ -9,5 +9,8 @@ Goal: Survive as long as possible and earn as much points by defeating enemies.
 
 <img src="https://i.imgur.com/Upc8lPq.gif" width=200><br>
 
-### Extract Zip to Use it!!!
+### Play the game
+1) Download and extract zip file
+2) Run space_defender.exe
+   - Turn off Windows Defender if it is flagged as malicious
 
